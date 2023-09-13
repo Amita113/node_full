@@ -1,0 +1,17 @@
+createServer() is a function which creates server
+
+http module is used to handle request nand response
+
+// pacakage.json store project details version ,pacakage in it, git details
+
+what is package.json file and details and pacakage.lock file
+
+npm i colors;
+dependencies
+npm i nodemon -g
+
+run nodemon filename
+
+// create a server 
+its header and API
+create an API with static data

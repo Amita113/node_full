@@ -1,0 +1,12 @@
+DNS is a node module used to do name resolution facility which is provided by the operating system as well as used to do an actual DNS lookup. 
+
+Advantage: No need for memorizing IP addresses – DNS servers provide a nifty solution for converting domain or subdomain names to IP addresses.
+
+dns. resolve returns an array of IP addresses associated with a domain name, while dns. lookup returns a single IP address associated with a domain name
+
+DNS, or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
+
+DNS is a core internet technology that translates human-friendly domain names into machine-usable IP addresses, such as www.example.com into 192.0. 2.1. The DNS operates as a distributed database, where different types of DNS servers are responsible for different parts of the DNS name space
+
+
+Using a DNS server is generally the norm, especially when accessing the outside world. None of us want to remember the actual IP address of a website or a streaming service. It's hard even to remember their names. So, DNS servers are synonymous with the Internet's existence

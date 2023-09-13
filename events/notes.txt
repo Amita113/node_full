@@ -1,0 +1,5 @@
+click of a button 
+downloading a file can be an event
+when downloading completes
+anything can be marked as event
+how to track

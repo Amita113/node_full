@@ -1,0 +1,23 @@
+console is a core module
+file system
+buffer
+Http
+
+global modules not need to import
+
+non global modules 
+
+
+// javascript refernce
+let users ={
+    name:"kayal",age:24
+    name:"eva",age:23
+}
+console.table(users)
+
+console.time(loop)
+// how much time it takes to complete operation
+console.timeEnd(loop)
+
+cosnole.endLoop()
+

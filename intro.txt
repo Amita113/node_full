@@ -1,0 +1,55 @@
+Node js is a run time environment to run js
+
+when Ryan dan has taken the JS engine v8 and embeded in C++ and created an executable. 
+
+then all the front end enginers where very happy, as now they can use JS itself at backend
+
+so we can install node js
+check version, npm as well
+
+how to start node terminal: windows+R = cmd
+node then press enter
+
+as like normally we can use browser to run javascript.
+we can run JS in node terminal
+
+but it does not support few objects like
+local storage API
+document.getElementById()
+
+----------------------------------------
+
+Its a run time enviroment which runs on server
+
+ we can run frameworks like Django,flask,php
+
+we can run JS on server using node js
+it runs on asynchronous - non blocking i/o model
+// single thread can mange multiple connection
+// as its non blocking i/o model
+
+
+// run the file using node filename
+// else run on repl
+
+
+
+// when we run node js on server it can handle multiple connections
+
+// npm init will create node modules will be ignored by github
+
+//  npm i -g nodemon
+
+//  if e change the new output reruns 
+
+//  few dependencies we want to use in development
+
+//  npm i --save-dev nodemon
+
+// dev-dependency: nodemon
+
+
+// dependency tree pacakage-Lock.json
+
+// express needs more so what ever who install adds in pacakage.json
+

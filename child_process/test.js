@@ -1,0 +1,1 @@
+console.log(" This is to test and understand how child process runs")

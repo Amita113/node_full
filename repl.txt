@@ -1,0 +1,12 @@
+repl={read, eval,print,loop}
+
+node in cmd will allow us to perform operations
+write a function 
+call it 
+
+.editor will allow us to open an editor and work
+write a function and to run press ctrl+D
+call it
+.help has all commands
+
+so takes single user inputs, executes them, and returns the result to the user; a program written in a REPL environment is executed piecewise
